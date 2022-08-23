@@ -1,0 +1,14 @@
+.register-form {
+    justify-content: center;
+    min-height: 90vh;
+}
+
+.button-block {
+    width: 100%;
+}
+
+.register-background {
+    justify-content: center;
+    min-height: 30vh;
+    padding: 50px;
+}
